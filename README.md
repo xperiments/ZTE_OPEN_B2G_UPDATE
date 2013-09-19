@@ -1,11 +1,14 @@
 # ZTE Open B2G update procedure for OSX #
 
+Thanks to Eduardo González for the source linux [tutorial](http://sl.edujose.org/2013/09/zte-open-hack-actualizando-fxos-11.html) ;-) 
 
 ## Download tools.zip
 
 	Decompress and open shell location
 
 ## Root your phone
+
+[ZTE OPEN Root Post](http://pof.eslack.org/2013/07/05/zte-open-firefoxos-phone-root-and-first-impressions/)
 
 	./root.sh
 
