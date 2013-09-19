@@ -1,2 +1,9 @@
-ZTE_OPEN_B2G_UPDATE
+ZTE Open B2G update procedure for OSX
 ===================
+
+
+Download xxxx.
+
+
+
+
